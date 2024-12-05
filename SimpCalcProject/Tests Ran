@@ -1,0 +1,12 @@
+Sample 1 -> Scanner 1 (OK) -> Parser 1 (BAD)
+Sample 2 -> Scanner 2 (OK) -> Parser 2 (OK)
+Sample 3 -> Scanner 3 (OK) -> Parser 3 (OK)
+Sample 4 -> Scanner 4 (OK) -> Parser 4 (OK)
+Sample 5 -> Scanner 5 (OK) -> Parser 5 (OK)
+Sample 6 -> Scanner 6 (OK) -> Parser 6 (OK)
+Sample 7 -> Scanner 7 (OK) -> Parser 7 (OK)
+Sample 8 -> Scanner 8 (OK) -> Parser 8 (BAD)
+Sample 9 -> Scanner 9 (OK) -> Parser 9 (BAD)
+
+*Note: Parser output doesn't have error line number
+*Note: Parser output doesn't state the right file name for validity
